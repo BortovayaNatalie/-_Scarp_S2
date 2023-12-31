@@ -1,0 +1,15 @@
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.AssemblyInfoInputs.cache
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.AssemblyInfo.cs
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.sourcelink.json
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\bin\Debug\net8.0\Seminar_2.exe
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\bin\Debug\net8.0\Seminar_2.deps.json
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\bin\Debug\net8.0\Seminar_2.runtimeconfig.json
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\bin\Debug\net8.0\Seminar_2.dll
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\bin\Debug\net8.0\Seminar_2.pdb
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.dll
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\refint\Seminar_2.dll
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.pdb
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\Seminar_2.genruntimeconfig.cache
+C:\Users\DNS\Geek_Brains\C_Sharp\Seminar_2\obj\Debug\net8.0\ref\Seminar_2.dll
